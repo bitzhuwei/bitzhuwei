@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://github-readme-stats.vercel.app/api?username=bitzhuwei)](https://github.com/anuraghazra/github-readme-stats)
+![A](https://github-readme-stats.vercel.app/api?username=bitzhuwei)
 <!--
 **bitzhuwei/bitzhuwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
